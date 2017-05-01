@@ -2,10 +2,10 @@
     var console = window.console;
     var oConsole = {
         log: console.log,
-        warn: console.warn,
+       // warn: console.warn,
         debug: console.debug,
-        error: console.error,
-        info: console.info
+       // error: console.error,
+       // info: console.info
     };
 
     function isDev(){
